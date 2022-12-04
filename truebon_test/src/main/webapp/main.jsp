@@ -27,7 +27,7 @@
 		location.reload();
 	}
 	</script>
-	<img src="images/sample2.PNG" alt="이미지" style="position:static;"/>
+	<img src="images/sample_main.png" alt="이미지" style="position:static;"/>
 	
 	<form action="main_process.jsp">
 		<input name="haeng" id="haeng"style="position:absolute; left:310px; top:110px; width:80px; text-align: center;">
@@ -39,8 +39,8 @@
 	</form>
 	<div id="div_con">
 		
-		<img src="images/sample_new.png" alt="이미지"  style="position:absolute;" />
-		<img src="images/board_last.png" alt="이미지" style="position:absolute;"  />
+		<img src="images/sample_update.png" alt="이미지"  style="position:absolute;" />
+		<img src="images/board.png" alt="이미지" style="position:absolute;"  />
 	</div>
 	
 </body>
