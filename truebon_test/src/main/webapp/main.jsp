@@ -30,11 +30,11 @@
 	<img src="images/sample_main.png" alt="이미지" style="position:static;"/>
 	
 	<form action="main_process.jsp">
-		<input name="haeng" id="haeng"style="position:absolute; left:310px; top:110px; width:80px; text-align: center;">
-		<input name="yeol" id="yeol" style="position:absolute; left:310px; top:140px; width:80px; text-align: center;">
-		<input type="submit" value="조정" style="margin-left:325px; text-align: center;
+		<input name="haeng" id="haeng"style="position:absolute; left:350px; top:110px; width:80px; text-align: center;">
+		<input name="yeol" id="yeol" style="position:absolute; left:350px; top:140px; width:80px; text-align: center;">
+		<input type="submit" value="조정" style="margin-left:365px; text-align: center;
 			position:absolute; top:170px; ">
-		<input type="button" value="새로고침" onClick="reLoad()" style="margin-left:313px; text-align: center;
+		<input type="button" value="새로고침" onClick="reLoad()" style="margin-left:353px; text-align: center;
 			position:absolute; top:200px; ">
 	</form>
 	<div id="div_con">
