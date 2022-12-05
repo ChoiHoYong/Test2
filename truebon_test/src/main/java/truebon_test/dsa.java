@@ -9,8 +9,8 @@ import javax.imageio.ImageIO;
 
 public class dsa {
 	public static void resizePng(int width, int height) {
-		String imgOriginalPath= "C:/Users/호용/Documents/GitHub/molla/truebon_test/src/main/webapp/images/sample_ingredient.png";   // 원본 이미지 파일명
-        String imgTargetPath= "C:/Users/호용/Documents/GitHub/molla/truebon_test/src/main/webapp/images/sample_update.png";   // 새 이미지 파일명
+		String imgOriginalPath= "C:/Users/Truebon/Documents/GitHub/molla/truebon_test/src/main/webapp/images/sample_ingredient.png";   // 원본 이미지 파일명
+        String imgTargetPath= "C:/Users/Truebon/Documents/GitHub/molla/truebon_test/src/main/webapp/images/sample_update.png";   // 새 이미지 파일명
         String imgFormat = "png";   // 새 이미지 포맷. jpg, gif 등
         float newWidth = width;   // 변경 할 넓이
         float newHeight = height;   // 변경 할 높이	
